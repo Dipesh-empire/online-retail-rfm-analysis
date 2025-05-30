@@ -8,7 +8,7 @@ Based on a Codebasics YouTube tutorial with additional analysis added by me.
 - Feature Engineering (`TotalSales`)
 - Monthly Sales Visualization
 - Top Countries by Sales
-- RFM Analysis
+- RFM Analysis(Recency, Frequency, monetary)
 - Customer Churn Detection
 - Custom Analysis: Customers without Customer ID
 
@@ -18,4 +18,6 @@ Based on a Codebasics YouTube tutorial with additional analysis added by me.
 
 ## Credit:
 Tutorial inspiration: [Codebasics YouTube Channel] (https://www.youtube.com/@codebasics)
+
+
 
